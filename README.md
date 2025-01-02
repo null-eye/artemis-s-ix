@@ -6,14 +6,15 @@
 <h2>Information</h2>
 Start Automation using Artemis<br>
 
-<h3>Features:</h3>
+<h3>Modules:</h3>
 
-**Modules**
+**Modules on version 4.0.0:**
 
-1. Scanners
-2. Enumeration
-3. Exploits
-4. Attacker
+| Modules           | Type    | Information                                       |Status  |
+|  ---------------- | ------  |---------------------------------------------------|--------|
+| subdomain-enum    |enumeration|Enumerate subdomains from the target domain      |stable  |
+| uriel-admin-finder| scanner |Find admin login page using payloads               |stable  |
+| uriel-admin-login | attacker|Attack admin login page using bypass admin payloads|stable  |
 
 <h3>Installation & Usage</h3>
 
