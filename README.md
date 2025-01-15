@@ -12,9 +12,9 @@ Start Automation using Artemis<br>
 
 | Modules           | Type    | Information                                       |Status  |
 |  ---------------- | ------  |---------------------------------------------------|--------|
-| subdomain-enum    |enumeration|Enumerate subdomains from the target domain      |stable  |
+| arkspider-xss-test   |enumeration|Enumerate parameter and try with xss payloads      |stable  |
 | uriel-admin-finder| scanner |Find admin login page using payloads               |stable  |
-| uriel-admin-login | attacker|Attack admin login page using bypass admin payloads|stable  |
+| uriel-bypass-admin | attacker|Attack admin login page using bypass admin payloads|stable  |
 
 <h3>Installation & Usage</h3>
 
